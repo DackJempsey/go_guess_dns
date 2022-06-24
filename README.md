@@ -5,7 +5,7 @@ Simple DNS subdomain enumeration.
 ### docker
 `docker build .`
 ### bare metal
-`go build .` //
+`go build .` \\
 `go run .`
 
 Built from the book: [Black Hat Go](https://nostarch.com/blackhatgo)
