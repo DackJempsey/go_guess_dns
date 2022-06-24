@@ -3,7 +3,8 @@ Simple DNS subdomain enumeration.
 
 ## Usage
 ### docker
-`docker build .`
+`docker build -t go_gues_dns` \
+`docker run -it --rm --name go_guess_dns go_guess_dns`
 ### bare metal
 `go build .` \
 `go run .`
