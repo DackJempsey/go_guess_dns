@@ -8,5 +8,7 @@ Simple DNS subdomain enumeration.
 ### bare metal
 `go build .` \
 `go run .`
+### name lists
+https://github.com/danielmiessler/SecLists
 
 Built from the book: [Black Hat Go](https://nostarch.com/blackhatgo)
